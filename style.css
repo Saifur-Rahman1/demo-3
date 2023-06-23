@@ -1,0 +1,12 @@
+body {
+    padding: 100px;
+}
+.total{
+    background-color: cyan;
+}
+.all{
+    margin: 0 20px;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
